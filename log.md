@@ -7,23 +7,9 @@
 
 **Thoughts:** Uploaded all of them to the Interview Prep repo. Valid Sudoku was alright. The time and space complexities were interesting. Move zeroes: Did it in the first try: Not bad, I guess?. Rotate Image was easy but understanding the fuck-all solution took time, but did it. 
 
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+### Day 2: April 20, 2020
 
 
-### Day 1: June 27, Monday
+**Today's Progress**: Did 5 problems on leetcode. + One hour of porject work.
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Thoughts:** Leetcod-ing was fun today. Time went by pretty quick until I got stuck by the atoi conversion question which was just plain ridiculous imo. Started the deeplearning course at 2. Pushed myself real heard. After 1.5 hours, had second thoughts if I should actually do the course or not as it felt very high-level. Anyway, created an account on Reddit and put out a post. But mostly I think I'll go ahead and finish the first course. This challenge is really helping me and I think I can do well if i keep this going.  
