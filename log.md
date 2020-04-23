@@ -20,3 +20,14 @@
 **Today's Progress**: Did 2 problems on leetcode. + Car classifier from google images.
 
 **Thoughts:** The coding questions took time. Rewarding, to say the least. Had difficulty understanding the ML lecture from class, so watched the first 4 lectures of Killian. WIll try and finish it tomorrow. Thinking if I should squueze in another leetcode problem now. Imma try
+
+
+### Day 4: April 21, 2020
+
+
+**Today's Progress**: Did 2 problems on leetcode. + Finished lesson 2 of deep learning
+
+**Thoughts:** Learned hoe to use zip, startswith(), isdigit(). As far as the course is concerned, learnt more abouut tensors, and "float" trouble haha. Found some interesting articles on data science on reddit. Bookmarked most of it. I have to somehow finish the deep learning course ASAOP and get on the next task. I feel like I can do a lot more.
+
+
+
