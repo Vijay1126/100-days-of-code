@@ -30,4 +30,11 @@
 **Thoughts:** Learned hoe to use zip, startswith(), isdigit(). As far as the course is concerned, learnt more abouut tensors, and "float" trouble haha. Found some interesting articles on data science on reddit. Bookmarked most of it. I have to somehow finish the deep learning course ASAOP and get on the next task. I feel like I can do a lot more.
 
 
+### Day 5: April 22, 2020
+
+
+**Today's Progress**: Did 4 problems on leetcode. + Started lesson 3
+
+**Thoughts:** Linked list was fun to do. really impressed at how my typing speed has increased from leetcoding. Was only able to do 40 minutes of lesson 3 today. Ended up spending hours on downloading datset from Kaggle, only to find out the file had fucking expired. Anyhow, learnt a bit about file management. Oh and figured out some stuff about project deployment as well. So let's see!
+
 
