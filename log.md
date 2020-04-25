@@ -38,3 +38,12 @@
 **Thoughts:** Linked list was fun to do. really impressed at how my typing speed has increased from leetcoding. Was only able to do 40 minutes of lesson 3 today. Ended up spending hours on downloading datset from Kaggle, only to find out the file had fucking expired. Anyhow, learnt a bit about file management. Oh and figured out some stuff about project deployment as well. So let's see!
 
 
+### Day 5: April 24, 2020
+
+
+**Today's Progress**: Did 3 problems on leetcode. + Mayank dropped a bomb, so Firebase+NodeJS for a month. Yay!
+
+**Thoughts:** Leetcode was fun as usual, gotta keep this up. Started iOS app development with Firebase. Looks good so far. I guess, learning a little bit of back end never hurt nobody. Sleeping early today. Big plays starting tomorrow!
+
+
+
