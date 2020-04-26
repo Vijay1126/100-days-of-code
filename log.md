@@ -45,5 +45,10 @@
 
 **Thoughts:** Leetcode was fun as usual, gotta keep this up. Started iOS app development with Firebase. Looks good so far. I guess, learning a little bit of back end never hurt nobody. Sleeping early today. Big plays starting tomorrow!
 
+### Day 7: April 25, 2020
+
+**Today's Progress**: Did 2 problems on leetcode. + Designed 4 view controllers, started Auth and Database
+**Thoughts:** Learned how powerful dequeue is. Damn. Did a bit of iOS dev. Sepnt a few hours trying to fix bugs. was succesfull in the end. Did lose a lot of time tho.
+
 
 
