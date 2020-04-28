@@ -56,4 +56,7 @@
 **Today's Progress**: Did 2 problems on leetcode. + Made the CustomLoginDemo app
 **Thoughts:** Made the app with authentication support. Now have to focus on NodeJS. Deep learning is lagging but I'm hoping all this will pay off with the internship scene. Let's see.
 
+### Day 9: April 27, 2020
 
+**Today's Progress**: Did 2 problems on leetcode.
+**Thoughts:** Bad day. Didnt get much time. Was busy with ML assignment. Managed to squeeze in two problems somehow.
