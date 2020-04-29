@@ -60,3 +60,9 @@
 
 **Today's Progress**: Did 2 problems on leetcode.
 **Thoughts:** Bad day. Didnt get much time. Was busy with ML assignment. Managed to squeeze in two problems somehow.
+
+
+### Day 10: April 28, 2020
+
+**Today's Progress**: Did 4 problems on leetcode.
+**Thoughts:** Thought the Firebase tutorial M suggested found was good. Turns out there's some bug in the very first tutorial. can't seem to find anything else. Will look harder.
