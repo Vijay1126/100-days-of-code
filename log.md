@@ -66,3 +66,20 @@
 
 **Today's Progress**: Did 4 problems on leetcode.
 **Thoughts:** Thought the Firebase tutorial M suggested found was good. Cant get past the first lesson because of some bs bug. Can't seem to find any other tutorial for cloud functions. Will look harder.
+
+### Day 11: April 29, 2020
+
+**Today's Progress**: Did 2 problems on leetcode.
+**Thoughts:** Finished the first Firebase tutorial. Did the first iOS lesson from Stanford.
+
+### Day 12: April 30, 2020
+
+**Today's Progress**: Did 2 problems on leetcode.
+**Thoughts:** Had three assignments to submit. Couldn't do iOS. Squeezed in two problems and passed out early
+
+
+### Day 13: May 1, 2020
+
+**Today's Good day!. Started the May challenge. Did a bit of iOS. Have to start prepping for IAP and NetSec next few days.
+
+
