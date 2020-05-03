@@ -80,6 +80,14 @@
 
 ### Day 13: May 1, 2020
 
-**Today's Good day!. Started the May challenge. Did a bit of iOS. Have to start prepping for IAP and NetSec next few days.
+**Today's Progress**: Good day!. Started the May challenge. Did a bit of iOS. Have to start prepping for IAP and NetSec next few days.
+
+
+### Day 14: May 2, 2020
+
+**Today's Progress**: Did 2 problems on leetcode. Finished Easy set. Started Medium.
+**Thoughts:** IAP Day. Will try and do a bit of interview prep if possible later on
+
+
 
 
