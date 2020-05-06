@@ -88,6 +88,24 @@
 **Today's Progress**: Did 2 problems on leetcode. Finished Easy set. Started Medium.
 **Thoughts:** IAP Day. Will try and do a bit of interview prep if possible later on
 
+### Day 15: May 3, 2020
+
+**Today's Progress**: May Challenge + One Medium
+**Thoughts:** Medium problems take time alright. Made the concentration app. WIll start Lesson 3 in a bit
+
+
+### Day 16: May 4, 2020
+
+**Today's Progress**: May Challenge + One Medium
+**Thoughts:** Finished the iOS debug + LeetCode, ML midterm tomorrow
+
+### Day 17: May 5, 2020
+
+**Today's Progress**: May Challenge + Two Medium
+**Thoughts:** Just leetcode today. Might do a bit of iOS/Firebase if unable to sleep
+
+ 
+
 
 
 
