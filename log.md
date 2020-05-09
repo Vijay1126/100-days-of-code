@@ -119,8 +119,8 @@
 
 ### Day 20: May 8, 2020
 
-**Today's Progress**: May Challenge + 1 Mediums 
-**Thoughts:**  -In Progress
+**Today's Progress**: May Challenge + 3 Mediums + Firebase Tut-4
+**Thoughts:** : Getting faster at coding, mediums taking lesser time
 
 
 
