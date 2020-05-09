@@ -104,7 +104,24 @@
 **Today's Progress**: May Challenge + Two Medium
 **Thoughts:** Just leetcode today. Might do a bit of iOS/Firebase if unable to sleep
 
- 
+ **Thoughts:** Finished the iOS debug + LeetCode, ML midterm tomorrow
+
+### Day 18: May 6, 2020
+
+**Today's Progress**: May Challenge + Two Medium
+**Thoughts:** Leetcode + Network security today
+
+### Day 19: May 7, 2020
+
+**Today's Progress**: May Challenge + 3 Mediums + H
+**Thoughts:** Finished third tutorial of firebase functions. CSS and HTML looks fun
+
+
+### Day 20: May 8, 2020
+
+**Today's Progress**: May Challenge + 1 Mediums 
+**Thoughts:**  -In Progress
+
 
 
 
