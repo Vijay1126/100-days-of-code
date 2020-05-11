@@ -130,7 +130,7 @@
 **Thoughts:** : Slept earluy trynna fix cycle
 
 
-### Day 22: May 9, 2020
+### Day 22: May 10, 2020
 
 **Today's Progress**: May Challenge + 2 Mediums + Firebase 5,6 done
 **Thoughts:** : Ember day lol
