@@ -135,3 +135,10 @@
 **Today's Progress**: May Challenge + 2 Mediums + Firebase 5,6 done
 **Thoughts:** : Ember day lol
 
+
+
+### Day 23: May 11, 2020
+
+**Today's Progress**: May Challenge + 2 Mediums + Firebase 7-9 done
+**Thoughts:** : Wwebsite - Half Done, Node.JS - lot of fun
+
