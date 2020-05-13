@@ -142,3 +142,8 @@
 **Today's Progress**: May Challenge + 2 Mediums + Firebase 7-9 done
 **Thoughts:** : Wwebsite - Half Done, Node.JS - lot of fun
 
+
+### Day 24: May 11, 2020
+
+**Today's Progress**: May Challenge + 2 Mediums + Firebase 10 done
+**Thoughts:** : 10 days left, 34 problems + System design work left. + 2 mid-terms :)
