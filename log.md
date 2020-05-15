@@ -147,3 +147,9 @@
 
 **Today's Progress**: May Challenge + 2 Mediums + Firebase 10 done
 **Thoughts:** : 10 days left, 34 problems + System design work left. + 2 mid-terms :)
+
+
+### Day 25: May 13, 2020
+
+**Today's Progress**: May Challenge + 4 Mediums + Firebase 11-13 done
+**Thoughts:** : Going strong, gotta work on OOPS
